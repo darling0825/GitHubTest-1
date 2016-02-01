@@ -1,0 +1,3 @@
+[submodule "Submodules/LZCollectionView"]
+	path = Submodules/LZCollectionView
+	url = https://github.com/darling0825/LZCollectionView.git
